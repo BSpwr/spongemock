@@ -1,0 +1,14 @@
+{
+  "name": "spongemock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request-promise": "^4.2.2",
+    "querystring": "^0.2.0",
+    "url": "^0.11.0",
+    "he": "^1.2.0"
+  }
+}
